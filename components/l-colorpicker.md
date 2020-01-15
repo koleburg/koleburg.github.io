@@ -1,13 +1,15 @@
 # l-colorpicker
 
+Инпут с выбором цвета
+
 ## Props
 
 <!-- @vuese:l-colorpicker:props:start -->
 |Name|Description|Type|Required|Default|
 |---|---|---|---|---|
-|disableAlpha|-|`Boolean`|`false`|-|
-|disableFields|-|`Boolean`|`false`|-|
-|title|-|`String`|`true`|-|
+|disableAlpha|Выключение альфа канала|`Boolean`|`false`|-|
+|disableFields|Выключение полей для ввода|`Boolean`|`false`|-|
+|title|Описание поля|`String`|`true`|-|
 
 <!-- @vuese:l-colorpicker:props:end -->
 

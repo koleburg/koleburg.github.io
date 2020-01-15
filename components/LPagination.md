@@ -1,13 +1,15 @@
 # LPagination
 
+Элемент вывода кнопок страниц
+
 ## Props
 
 <!-- @vuese:LPagination:props:start -->
 |Name|Description|Type|Required|Default|
 |---|---|---|---|---|
-|perPage|-|`Number`|`true`|15|
-|total|-|`Number`|`true`|-|
-|currentPage|-|`Number`|`false`|1|
+|perPage|Количество элементов на страницу|`Number`|`true`|15|
+|total|Всего элементов|`Number`|`true`|-|
+|currentPage|Текущая страница|`Number`|`false`|1|
 
 <!-- @vuese:LPagination:props:end -->
 

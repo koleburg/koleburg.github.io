@@ -1,11 +1,13 @@
 # LForm
 
+Компонент формы
+
 ## Props
 
 <!-- @vuese:LForm:props:start -->
 |Name|Description|Type|Required|Default|
 |---|---|---|---|---|
-|horizontal|-|`Boolean`|`false`|-|
+|horizontal|Сделать форму горизонатльной|`Boolean`|`false`|-|
 
 <!-- @vuese:LForm:props:end -->
 
@@ -15,7 +17,7 @@
 <!-- @vuese:LForm:slots:start -->
 |Name|Description|Default Slot Content|
 |---|---|---|
-|default|-|-|
+|default|Слот элементов формы|-|
 
 <!-- @vuese:LForm:slots:end -->
 

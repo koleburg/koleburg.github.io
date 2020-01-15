@@ -1,15 +1,17 @@
 # LCheckbox
 
+Checkbox
+
 ## Props
 
 <!-- @vuese:LCheckbox:props:start -->
 |Name|Description|Type|Required|Default|
 |---|---|---|---|---|
-|name|-|`String`|`true`|-|
-|label|-|`String`|`true`|-|
-|value|-|`String` /  `Boolean`|`false`|-|
-|disabled|-|`Boolean`|`false`|-|
-|color|-|`String`|`false`|primary|
+|name|id элемента|`String`|`true`|-|
+|label|Описание|`String`|`true`|-|
+|value|Значение|`String` /  `Boolean`|`false`|-|
+|disabled|Выключение|`Boolean`|`false`|-|
+|color|Цвет|`String`|`false`|primary|
 
 <!-- @vuese:LCheckbox:props:end -->
 
@@ -22,5 +24,15 @@
 |input|-|-|
 
 <!-- @vuese:LCheckbox:events:end -->
+
+
+## Methods
+
+<!-- @vuese:LCheckbox:methods:start -->
+|Method|Description|Parameters|
+|---|---|---|
+|handleChange|эвент изменения данных|-|
+
+<!-- @vuese:LCheckbox:methods:end -->
 
 

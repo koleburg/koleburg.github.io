@@ -1,11 +1,13 @@
 # LBadge
 
+Уведомления
+
 ## Props
 
 <!-- @vuese:LBadge:props:start -->
 |Name|Description|Type|Required|Default|
 |---|---|---|---|---|
-|color|-|`String`|`false`|primary|
+|color|Цвет|`String`|`false`|primary|
 
 <!-- @vuese:LBadge:props:end -->
 
@@ -15,7 +17,7 @@
 <!-- @vuese:LBadge:slots:start -->
 |Name|Description|Default Slot Content|
 |---|---|---|
-|default|-|-|
+|default|Текст уведомления|-|
 
 <!-- @vuese:LBadge:slots:end -->
 

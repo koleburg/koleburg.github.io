@@ -1,12 +1,14 @@
 # LHeader
 
+Компонент Header
+
 ## Slots
 
 <!-- @vuese:LHeader:slots:start -->
 |Name|Description|Default Slot Content|
 |---|---|---|
-|links|-|-|
-|right|-|-|
+|links|Слот ссылок|-|
+|right|Слот правого меню|-|
 
 <!-- @vuese:LHeader:slots:end -->
 

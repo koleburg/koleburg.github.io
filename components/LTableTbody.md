@@ -1,11 +1,13 @@
 # LTableTbody
 
+Тело таблицы
+
 ## Props
 
 <!-- @vuese:LTableTbody:props:start -->
 |Name|Description|Type|Required|Default|
 |---|---|---|---|---|
-|data|-|`Array`|`false`|[]|
+|data|Данные|`Array`|`false`|[]|
 
 <!-- @vuese:LTableTbody:props:end -->
 
