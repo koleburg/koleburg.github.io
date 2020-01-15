@@ -30,3 +30,24 @@
 <!-- @vuese:LMenuItem:slots:end -->
 
 
+## Methods
+
+<!-- @vuese:LMenuItem:methods:start -->
+|Method|Description|Parameters|
+|---|---|---|
+|openDropdown|Открытие выпадающего меню|-|
+|closeDropDown|Закрытие выпадающего меню|-|
+
+<!-- @vuese:LMenuItem:methods:end -->
+
+
+## Data
+
+<!-- @vuese:LMenuItem:data:start -->
+|Name|Type|Description|Default|
+|---|---|---|---|
+|drop|`Object`|Состояние "Открытие выпадающего меню"|-|
+
+<!-- @vuese:LMenuItem:data:end -->
+
+
