@@ -1,14 +1,16 @@
 # LMenu
 
+Компонент для формирования меню
+
 ## Props
 
 <!-- @vuese:LMenu:props:start -->
 |Name|Description|Type|Required|Default|
 |---|---|---|---|---|
-|accordion|-|`Boolean`|`false`|-|
-|widget|-|`String`|`false`|-|
-|classes|-|`String`|`false`|-|
-|role|-|`String`|`false`|-|
+|accordion|Включение аккордиона|`Boolean`|`false`|-|
+|widget|Виджет|`String`|`false`|-|
+|classes|Классы для меню|`String`|`false`|-|
+|role|Роль|`String`|`false`|-|
 
 <!-- @vuese:LMenu:props:end -->
 
@@ -18,7 +20,7 @@
 <!-- @vuese:LMenu:slots:start -->
 |Name|Description|Default Slot Content|
 |---|---|---|
-|default|-|-|
+|default|Слот принимает элементы MenuItem|-|
 
 <!-- @vuese:LMenu:slots:end -->
 
